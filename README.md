@@ -1,2 +1,2 @@
-# Pig_Weight_Estimation_Yolov8
+# Pig_Weight_Estimation
  
